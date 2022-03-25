@@ -1,4 +1,4 @@
-# Ms-Lin-Sweet-web
+# Ms-Lin-Sweet-Web-App
 * This is a web app allows user to log in, select food and place an order, and leave messages.<br />
 * The front-end part used responsive design, Bootstrap CSS and JavaScript components. <br />
 * Here is the review of each page/section:<br /><br />
